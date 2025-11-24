@@ -1,0 +1,33 @@
+{
+    "total_rows": 16534,
+    "columns": [
+        "work_year",
+        "experience_level",
+        "employment_type",
+        "job_title",
+        "salary_in_usd"
+    ],
+    "total_job_roles": 155,
+    "top5_jobs_by_avg_salary": {
+        "Analytics Engineering Manager": 399880.0,
+        "Data Science Tech Lead": 375000.0,
+        "Head of Machine Learning": 299758.0,
+        "Managing Director Data Science": 280000.0,
+        "AWS Data Architect": 258000.0
+    },
+    "missing_values": {
+        "work_year": 0,
+        "experience_level": 0,
+        "employment_type": 0,
+        "job_title": 0,
+        "salary_in_usd": 0
+    },
+    "duplicate_count": 7515,
+    "duplicates_removed": 7515,
+    "salary_range": {
+        "lower_bound": 0.0,
+        "upper_bound": 325900.0
+    },
+    "salary_outliers_count": 152,
+    "invalid_experience_level_count": 0
+}
